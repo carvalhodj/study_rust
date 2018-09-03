@@ -1,0 +1,1 @@
+/home/d3jota/Desenvolvimento/RUST/the_book/chap12/minigrep/target/debug/minigrep-524033b2a2733930: /home/d3jota/Desenvolvimento/RUST/the_book/chap12/minigrep/src/lib.rs /home/d3jota/Desenvolvimento/RUST/the_book/chap12/minigrep/src/main.rs
