@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add_one","Adds one to the number given :)"],["minus_one","Subtracts one of the number given :("]]});
